@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234175089310",
+    "firebase_url": "https://androidmvp-6e265.firebaseio.com",
+    "project_id": "androidmvp-6e265",
+    "storage_bucket": "androidmvp-6e265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234175089310:android:a761fc460f21945c84498f",
+        "android_client_info": {
+          "package_name": "com.devloop.androidmvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234175089310-mtd8vfqppknea1ebc7rrtsmtrl40cuf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6oOZ1gCO3yxyWvxOAzJB0CAfzlvfUzC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234175089310-mtd8vfqppknea1ebc7rrtsmtrl40cuf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
